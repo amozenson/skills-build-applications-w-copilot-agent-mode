@@ -28,13 +28,7 @@ Monitors the correctness of code edits and terminal command output and iterates 
 1. Confirm the **Repository** field is your copy of the exercise, not the original, then click the green **Create Codespace** button.
 
    - ✅ Your copy: `/{{{full_repo_name}}}`
-   - ❌ Original: `/skills/build-applications-w-copilot-agent-mode`
-
-1. Wait a moment for Visual Studio Code to load.
-    1. You may need to switch to VS Code insiders edition in the codespace since agent mode was released on 4/4 as a phased rollout to users.
-   <img src="https://github.com/user-attachments/assets/5a72c5b2-2d0f-4f84-bc3d-b276b90d44d7" width=30% height=30%>
-   
-1. Before we continue let's take a moment to familiarize ourselves with the project folder.
+   - ❌ Original: `/skills/build-applications-w-copilot-agent-mode` 1. Wait a moment for Visual Studio Code to load. 1. You may need to switch to VS Code insiders edition in the codespace since agent mode was released on 4/4 as a phased rollout to users. <img src="https://github.com/user-attachments/assets/5a72c5b2-2d0f-4f84-bc3d-b276b90d44d7" width=30% height=30%> 1. Before we continue let's take a moment to familiarize ourselves with the project folder.
 
    - The left navigation bar is where you can access the file explorer, debugger, and search.
    - The lower panel (Ctrl+J) shows the debugger output, allows running terminal commands, and allows configuring the web service ports.
